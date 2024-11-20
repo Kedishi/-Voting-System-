@@ -21,7 +21,7 @@ As the largest OSS project on Algorand Choice Coin strives to excel in open sour
 For an easy startup, check the Voting_Tutorial folder for a step by step guide to getting started building voting software with Choice Coin on Algorand.
 
 # OSS Programs
-The main way in which Choice is decentralized is through rewards programs for developmers making contributions to Choice Coin Open Source Software. If you are interested in contributing, please reach out via pull request on GitHub, in our Discord, or on Telegram.
+The main way in which Choice is decentralized is through rewards programs for developers making contributions to Choice Coin Open Source Software. If you are interested in contributing, please reach out via pull request on GitHub, in our Discord, or on Telegram.
 
 
 
